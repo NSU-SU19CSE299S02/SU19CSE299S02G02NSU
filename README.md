@@ -21,6 +21,18 @@ Slack: https://su19cse299nsusas3.slack.com/messages/GKN7DF53P/
 </p>
 <br>
 <h4>Faculty Name: Shaikh Shawon Arefin Shimon</h4>
+<p>Member 1:
+Name :  Samia Jahin
+ID        :  1610311042
+Email  :   samia.jahin@northsouth.edu
+Member 2:
+Name :  Durjoy Dass
+ID        :  1611057042
+Email  :   durjoy.dass@northsouth.edu
+ 
+Git repository link: https://github.com/durjoy213/SU19CSE299S02G02NSU
+
+</p>
 
 <h5>Date prepared: 21th June 2019</h5>
 
