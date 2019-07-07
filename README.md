@@ -10,7 +10,7 @@ Github:https://github.com/durjoy213/SU19CSE299S02G02NSU.git
 
 Slack: https://su19cse299nsusas3.slack.com/messages/GKN7DF53P/
 
-<img src="https://www.google.com/search?q=nsu+logo&tbm=isch&source=iu&ictx=1&fir=i5YeMHm3aQOEEM%253A%252CZIGatWHnZPb6JM%252C_&vet=1&usg=AI4_-kRlQ3kQyMOcI8cIipZZYVoRY6vJSQ&sa=X&ved=2ahUKEwi24t2yrqLjAhVLqo8KHfzcCRQQ9QEwAnoECAcQCA#imgdii=JFBx_LWLoYVAoM:&imgrc=i5YeMHm3aQOEEM:&vet=1">
+<img src="Documentation/logo.jpg">
 
 <h2> Augmented Reality based 3D Modeling </h2>
 
