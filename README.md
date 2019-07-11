@@ -14,21 +14,22 @@ Slack: https://su19cse299nsusas3.slack.com/messages/GKN7DF53P/
 
 <h2> Augmented Reality based 3D Modeling </h2>
 
-<p>Course : CSE 299
-   Section : 02
-   Group : 02
-   Semester : Summer 2019
+<p>Course : CSE 299</p>
+  <p> Section : 02</p>
+   <p>Group : 02</p>
+  <p> Semester : Summer 2019
 </p>
 <br>
 <h4>Faculty Name: Shaikh Shawon Arefin Shimon</h4>
-<p>Member 1:
-Name :  Samia Jahin
-ID        :  1610311042
-Email  :   samia.jahin@northsouth.edu
-Member 2:
-Name :  Durjoy Dass
-ID        :  1611057042
-Email  :   durjoy.dass@northsouth.edu
+<p>Member 1:</p>
+<p>Name :  Samia Jahin</p>
+<p>ID        :  1610311042</p>
+<p>Email  :   samia.jahin@northsouth.edu</p>
+<br>
+<p>Member 2:</p>
+<p>Name :  Durjoy Dass</p>
+<p>ID        :  1611057042</p>
+<p>Email  :   durjoy.dass@northsouth.edu</p>
  
 Git repository link: https://github.com/durjoy213/SU19CSE299S02G02NSU
 
