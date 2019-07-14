@@ -21,9 +21,10 @@ Slack: https://su19cse299nsusas3.slack.com/messages/GKN7DF53P/
 </p>
 <br>
 <h4>Faculty Name: Shaikh Shawon Arefin Shimon</h4>
+<br>
 <p>Member 1:</p>
 <p>Name :  Samia Jahin</p>
-<p>ID        :  1610311042</p>
+<p>ID       :  1610311042</p>
 <p>Email  :   samia.jahin@northsouth.edu</p>
 <br>
 <p>Member 2:</p>
@@ -33,9 +34,10 @@ Slack: https://su19cse299nsusas3.slack.com/messages/GKN7DF53P/
  
 Git repository link: https://github.com/durjoy213/SU19CSE299S02G02NSU
 
-</p>
+</p><br>
 
 <h5>Date prepared: 21th June 2019</h5>
+<br>
 
 
 <h1>Project Proposal</h1>
