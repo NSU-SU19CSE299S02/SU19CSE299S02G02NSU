@@ -10,33 +10,37 @@ Github:https://github.com/durjoy213/SU19CSE299S02G02NSU.git
 
 Slack: https://su19cse299nsusas3.slack.com/messages/GKN7DF53P/
 
-<img src="Documentation/logo.jpg">
+<p align="center">
+	<img src="Documentation/logo.jpg">
+</p>
 
-<h2> Augmented Reality based 3D Modeling </h2>
+<p align="center">
+	<h2> Augmented Reality based 3D Modeling </h2>
+</p>
 
-<p>Course : CSE 299</p>
-  <p> Section : 02</p>
-   <p>Group : 02</p>
-  <p> Semester : Summer 2019
+<p align="center">Course : CSE 299</p>
+  <p align="center"> Section : 02</p>
+  <p align="center">Group : 02</p>
+ <p align="center"> Semester : Summer 2019
 </p>
 <br>
-<h4>Faculty Name: Shaikh Shawon Arefin Shimon</h4>
+<p align="center"><h4>Faculty Name: Shaikh Shawon Arefin Shimon</h4></p>
 <br>
-<p>Member 1:</p>
-<p>Name :  Samia Jahin</p>
-<p>ID       :  1610311042</p>
-<p>Email  :   samia.jahin@northsouth.edu</p>
+<p align="center">Member 1:</p>
+<p align="center">Name :  Samia Jahin</p>
+<p align="center">ID       :  1610311042</p>
+<p align="center">Email  :   samia.jahin@northsouth.edu</p>
 <br>
-<p>Member 2:</p>
-<p>Name :  Durjoy Dass</p>
-<p>ID        :  1611057042</p>
-<p>Email  :   durjoy.dass@northsouth.edu</p>
+<p align="center">Member 2:</p>
+<p align="center">Name :  Durjoy Dass</p>
+<p align="center">ID        :  1611057042</p>
+<p align="center">Email  :   durjoy.dass@northsouth.edu</p>
  
-Git repository link: https://github.com/durjoy213/SU19CSE299S02G02NSU
+<p align="center">Git repository link: https://github.com/durjoy213/SU19CSE299S02G02NSU</p>
 
 </p><br>
 
-<h5>Date prepared: 21th June 2019</h5>
+<p align="center"><h5>Date prepared: 21th June 2019</h5></p>
 <br>
 
 
