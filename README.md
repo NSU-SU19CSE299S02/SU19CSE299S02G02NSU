@@ -14,9 +14,8 @@ Slack: https://su19cse299nsusas3.slack.com/messages/GKN7DF53P/
 	<img src="Documentation/logo.jpg">
 </p>
 
-<p align="center">
-	<h2> Augmented Reality based 3D Modeling </h2>
-</p>
+<h2 align="center"> Augmented Reality based 3D Modeling </h2>
+
 
 <p align="center">Course : CSE 299</p>
   <p align="center"> Section : 02</p>
@@ -24,7 +23,7 @@ Slack: https://su19cse299nsusas3.slack.com/messages/GKN7DF53P/
  <p align="center"> Semester : Summer 2019
 </p>
 <br>
-<p align="center"><h4>Faculty Name: Shaikh Shawon Arefin Shimon</h4></p>
+<h4 align="center">Faculty Name: Shaikh Shawon Arefin Shimon</h4>
 <br>
 <p align="center">Member 1:</p>
 <p align="center">Name :  Samia Jahin</p>
@@ -40,7 +39,7 @@ Slack: https://su19cse299nsusas3.slack.com/messages/GKN7DF53P/
 
 </p><br>
 
-<p align="center"><h5>Date prepared: 21th June 2019</h5></p>
+<h5 align="center">Date prepared: 21th June 2019</h5>
 <br>
 
 
