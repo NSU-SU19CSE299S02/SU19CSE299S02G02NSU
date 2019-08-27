@@ -99,6 +99,9 @@ The figure below summarizes these steps. ARToolKit is able to perform this camer
 
 
 </p>
+<p align="center">
+	<img src="Documentation/3.jpg">
+</p>
 <p>
 	<h3>1.3. Detection Algorithm:</h3>
 The algorithm used to detect the pattern uses a few basic concepts of image analysis. As a first step, the captured image is filtered through a binary image. The threshold value is one of the few parameters that can be set by the user of the library. The binary image is then passed through a connected-component labeling algorithm. The results of this pass is a labeling of the different regions of the image and the goal is to find big regions of the image.
@@ -115,9 +118,15 @@ The letters that are going to be modeled in 3D have been created in MS Word.
 For detecting the 2D letter’s from the camera’s field of view we have used Vuforia engine. Vuforia Engine can detect and track image Targets. Unlike traditional fiducial markers, data matrix codes, and QR codes, Image Targets do not need special black and white regions or codes to be recognized. The Engine detects and tracks the features that are naturally found in the image itself by comparing these natural features against a known target resource database. Once the Image Target is detected, Vuforia Engine will track the image as long as it is at least partially in the camera’s field of view. The picture below shows how we have detected the 2D image for the letters.
 
 </p>
+<p align="center">
+	<img src="Documentation/1.jpg">
+</p>
 <p>
 	<h3>3.3. Creating 3D Models:</h3>
 We have used Blender for modeling all English letters as well as the Bangla. We took square object from the blender library and then modified it with the shape as required to create the exact model for the letters. The pictures below shows how we created the models for the letters.
+<p align="center">
+	<img src="Documentation/4.jpg">
+</p>
 
 <h3>3.4. UI Integration for the application:</h3>
 Unity also has been used for creating the android platform as well as for the UI of this application. The language for the that has been used for the UI design is C#.
@@ -134,6 +143,21 @@ Unity also has been used for creating the android platform as well as for the UI
 
 <h3>3.7. Placing 3D models on top of 2D using Unity:</h3>
 Unity is the world's most-widely-used real-time 3D development platform. The engine can be used to create three-dimensional, two-dimensional, virtual reality, and augmented reality games, as well as simulations and other experiences. We used Unity in our project to merging the 2D and 3D model together. 
+
+<p align="center">
+	<img src="Documentation/2.jpg">
+</p>
+<h3>3.8. Building Application.
+
+4.The features that haven’t been completed:
+</h3>
+<p>•	The 3D model zooming in/out or rotating.
+•	Payment Method
+</p>
+<p>
+	<h3>5.Usage of the application:</h3>
+This android application can be used for detecting the 2D Bangla and English letters. And then the letters can be converted into 3D models in a frame of Augmented Reality. For the further usage the application can be modified for detecting any image and then converting them into their 3D models. This will be able to help the students for better understanding the figures/images in their text books.
+</p>
 
 
 </p>
