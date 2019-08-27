@@ -100,7 +100,7 @@ The figure below summarizes these steps. ARToolKit is able to perform this camer
 
 </p>
 <p align="center">
-	<img src="Documentation/3.jpg">
+	<img src="Documentation/3.png">
 </p>
 <p>
 	<h3>1.3. Detection Algorithm:</h3>
@@ -119,13 +119,13 @@ For detecting the 2D letter’s from the camera’s field of view we have used V
 
 </p>
 <p align="center">
-	<img src="Documentation/1.jpg">
+	<img src="Documentation/1.png">
 </p>
 <p>
 	<h3>3.3. Creating 3D Models:</h3>
 We have used Blender for modeling all English letters as well as the Bangla. We took square object from the blender library and then modified it with the shape as required to create the exact model for the letters. The pictures below shows how we created the models for the letters.
 <p align="center">
-	<img src="Documentation/4.jpg">
+	<img src="Documentation/4.png">
 </p>
 
 <h3>3.4. UI Integration for the application:</h3>
@@ -145,7 +145,7 @@ Unity also has been used for creating the android platform as well as for the UI
 Unity is the world's most-widely-used real-time 3D development platform. The engine can be used to create three-dimensional, two-dimensional, virtual reality, and augmented reality games, as well as simulations and other experiences. We used Unity in our project to merging the 2D and 3D model together. 
 
 <p align="center">
-	<img src="Documentation/2.jpg">
+	<img src="Documentation/2.png">
 </p>
 <h3>3.8. Building Application.
 
